@@ -33,7 +33,7 @@ else
   TOUCH="/bin/touch"
 fi
 
-// FIXME: 修改地址为国内源
+# FIXME: 修改地址为国内源
 #BREW_REPO="https://github.com/Homebrew/brew"
 BREW_REPO="https://mirrors.ustc.edu.cn/brew.git"
 
